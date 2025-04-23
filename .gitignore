@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+*.user
+*.json
+publish_output/
+google-creds/
