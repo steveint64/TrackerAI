@@ -1,0 +1,10 @@
+{
+  "navigationFallback": {
+    "rewrite": "/index.html"
+  },
+  "routes": [],
+  "responseOverrides": {},
+  "globalHeaders": {
+    "Cache-Control": "no-cache"
+  }
+}
