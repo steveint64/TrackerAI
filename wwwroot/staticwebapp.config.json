@@ -5,6 +5,6 @@
   "routes": [],
   "responseOverrides": {},
   "globalHeaders": {
-    "Cache-Control": "no-cache"
+    "Cache-Control": "no-store, no-cache, must-revalidate, max-age=0"
   }
 }
